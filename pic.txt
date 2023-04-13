@@ -1,0 +1,1 @@
+this is the sample of fedora linux to push my repository to basic_c_code repository
